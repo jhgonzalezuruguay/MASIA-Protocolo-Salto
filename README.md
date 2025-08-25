@@ -65,7 +65,7 @@ González, J. H. (2025). *Protocolo MASIA – Caso Salto (Intendencia vs. ADEOMS
   title        = {Protocolo MASIA – Caso Salto (Intendencia vs. ADEOMS, 292 cesados)},
   year         = {2025},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/usuario/masia-salto}},
+  howpublished = {\url{https://github.com/jhgonzalezuruguay/MASIA-Protocolo-Salto}},
   note         = {Accedido: 24 de agosto 2025}
 }
 
