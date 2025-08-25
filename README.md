@@ -51,7 +51,7 @@ Si utilizas este material, por favor cita de la siguiente manera:
 
 **Formato APA (7ª edición):**
 
-González, J. H. (2025). *Protocolo MASIA – Caso Salto (Intendencia vs. ADEOMS, 292 cesados)* [Repositorio de datos]. GitHub. https://github.com/usuario/masia-salto  
+González, J. H. (2025). *Protocolo MASIA – Caso Salto (Intendencia vs. ADEOMS, 292 cesados)* [Repositorio de datos]. GitHub.   https://github.com/jhgonzalezuruguay/MASIA-Protocolo-Salto  
 
 *(Si el repositorio obtiene DOI en Zenodo, reemplazar el enlace de GitHub por el DOI correspondiente).*
 
